@@ -55,8 +55,8 @@ remDr$navigate("http://transmitools.transmilenio.gov.co/")
 remDr$maxWindowSize()
 
 # ingresamos credenciales
-user <- "GMV013"
-pwd <- "Gmovi2022*"
+user <- "user"
+pwd <- "pwd"
 
 remDr$findElement(using = "name", value = "username2")$sendKeysToElement(list(user))
 remDr$findElement(using = "name", value = "password2")$sendKeysToElement(list(pwd))
