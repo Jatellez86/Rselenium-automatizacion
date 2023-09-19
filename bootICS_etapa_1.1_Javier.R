@@ -200,10 +200,10 @@ print(ics_1_1$id_ics[i])
 
 
 
-#data.table::fwrite(cruce_subidos, str_c("Y:/20221211 boot carga ics/df_errores.csv"))
+data.table::fwrite(cruce_subidos, str_c("Y:/20221211 boot carga ics/df_errores.csv"))
 
 
-#remDr$close()
+remDr$close()
 
 
 
