@@ -72,7 +72,7 @@ tryCatch({
 ## :exclamation: Nota
 Esta es una visión general. Para más detalles, consulte el código fuente.
 
-## :mailbox: Contacto
+## :mailbox: javiertellezmarin@gmail.com
 Para cualquier problema o mejora, no dude en abrir un problema o solicitud de extracción.
 
 ---
